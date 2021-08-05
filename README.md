@@ -18,6 +18,11 @@
 數據部份是耗電爬的QQ 引用請註來源：
 - FB-林口求生記 https://www.facebook.com/linkou.life 
 
+
+不定期更新資料，如有需要我盡快更新可使用上面的臉書網址/Github頁面的email聯絡我或是發 issue :)
+
+# 輸出範例
+
 | 解封後北上 | 解封後南下 |
 |---|---|
 | ![2021-Aug-4-NORTH](https://user-images.githubusercontent.com/5109822/128348412-449b7815-42eb-42d0-b97c-a78e909e058b.png) | ![2021-Aug-4-SOUTH](https://user-images.githubusercontent.com/5109822/128350312-ed8e83c4-62b5-4bd5-92e1-71523b9912e3.png) |
@@ -27,5 +32,3 @@
 | ![image](https://user-images.githubusercontent.com/5109822/128350694-a42271ee-1335-4732-9110-7a43ad833d7c.png) | ![image](https://user-images.githubusercontent.com/5109822/128350751-e6a22877-af7d-4bcb-8973-fa07de8e3b2b.png)
 
 
-
-不定期更新資料，如有需要我盡快更新可使用上面的臉書網址/Github頁面的email聯絡我或是發 issue :)
